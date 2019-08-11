@@ -1,0 +1,21 @@
+body {
+	margin: auto;
+	margin-top: 3em;
+	width: 50%;
+	text-align: center;
+}
+
+p  {
+	font-size: xx-large;
+}
+
+p.error {
+	color: red;
+}
+
+li  {
+	font-size: xx-large;
+	color: gren;
+	text-align: left;
+	margin-left: 40%;
+}
